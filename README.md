@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas S Shavi</h1>
 <h3 align="center">A CyberSecurity enthusiast from India!!!</h3>
 
-- 🔭 I’m currently working on [Encrypted Communication on Arduino](https://github.com/VikasShavi/AES-encryption-with-Arduino-Mega.git)
+- 🔭 I’m currently working on [Network Intrusion Detection System](https://github.com/VikasShavi/SecureNet)
 
 - 🌱 I’m currently learning **C++, Javascript**
 
