@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **C++, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VikasShavi](https://github.com/VikasShavi)
-
+  
+- 💻 My Journal [link](https://vikasshavi.github.io/Infosec-Journal/)
+  
 - 📫 How to reach me **vikasvivek2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
