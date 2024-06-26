@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VikasShavi](https://github.com/VikasShavi)
   
-- 💻 My Journal [link](https://vikasshavi.github.io/Infosec-Journal/)
+- 💻 My Journal [link](https://crippledmind-infosec-journal.netlify.app/)
   
 - 📫 How to reach me **vikasvivek2000@gmail.com**
 
