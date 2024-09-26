@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Network Intrusion Detection System](https://github.com/VikasShavi/SecureNet)
 
-- 🌱 I’m currently learning **C++, Javascript**
+- 🌱 I’m currently learning **Rust, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VikasShavi](https://github.com/VikasShavi)
   
